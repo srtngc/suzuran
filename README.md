@@ -1,2 +1,2 @@
-# vip
-vipの各種データの格納場所
+# suzuran
+各種file格納場所
